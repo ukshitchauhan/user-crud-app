@@ -130,11 +130,11 @@ The frontend will run on `http://localhost:5173` and communicate with backend at
 
 ### Add User Page
 
-![![alt text](image.png)]
+!![alt text](image.png)
 
 ### Saw User Page
 
-![![alt text](image-1.png)]
+!![alt text](image-1.png)
 ---
 
 **Developed by:** Ukshit Chauhan
